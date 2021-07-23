@@ -1,7 +1,7 @@
         </div>
     </div>
     <div id="footer">
-        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved. 똥이야 똥 </p>
+        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved. Webhook Test </p>
         <a id="poweredBy" href="http://osticket.com" target="_blank"><?php echo __('Helpdesk software - powered by osTicket'); ?></a>
     </div>
 <div id="overlay"></div>
